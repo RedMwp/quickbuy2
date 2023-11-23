@@ -1,0 +1,23 @@
+*{
+  margin:0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+body{
+  margin: 0 auto;
+  font-size: 18px;
+  font-family: 'Poppins',Arial,Sans-Serif;
+}
+.container{
+  width: 90%;
+  max-width: 2000px;
+  margin: 0 auto;
+}
+a{
+  color: #fff;
+}
+h1{
+  font-size: 2rem;
+}
